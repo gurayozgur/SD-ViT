@@ -1,6 +1,6 @@
 # Stochastic Deep Supervision for Gallery-Consistent Early-Exit Face Recognition
 
-This repository contains the official implementation of the paper **"Stochastic Deep Supervision for Gallery-Consistent Early-Exit Face Recognition"**, accepted at WACV 2027.
+This repository contains the official implementation of the paper **"[Stochastic Deep Supervision for Gallery-Consistent Early-Exit Face Recognition](https://arxiv.org/pdf/2611.09987)"**, accepted at WACV 2027.
 
 [Poster](assets/SD-ViT_poster.pdf) | [Slides](assets/SD-ViT_slides.pdf)
 
@@ -108,15 +108,14 @@ After every epoch the five high-quality sets are evaluated and CVLface keeps the
 
 ## Citation
 ```
-@inproceedings{ozgur2027sdvit,
-  author    = {Guray Ozgur and
-               Tahar Chettaoui and
-               Eduarda Caldeira and
-               Naser Damer and
-               Fadi Boutros},
-  title     = {Stochastic Deep Supervision for Gallery-Consistent Early-Exit Face Recognition},
-  booktitle = {IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
-  year      = {2027}
+@misc{ozgur2026stochasticdeepsupervisiongalleryconsistent,
+      title={Stochastic Deep Supervision for Gallery-Consistent Early-Exit Face Recognition}, 
+      author={Guray Ozgur and Tahar Chettaoui and Eduarda Caldeira and Naser Damer and Fadi Boutros},
+      year={2026},
+      eprint={2611.09987},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2611.09987}, 
 }
 ```
 
